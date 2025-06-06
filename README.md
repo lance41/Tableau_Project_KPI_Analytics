@@ -91,13 +91,10 @@ KPI-Dashboard-Call-Center/
 ├── README.md
 ├── data/
 │   └── Call Center Data.xlsx
-├── images/
+├── assets/
 │   └── KPI_Dashboard.png
 ├── tableau/
 │   └── KPI_Dashboard.twb
-│   └── KPI_Dashboard_Export.pdf
-├── insights/
-│   └── KPI_Insights_Report.md
 ```
 
 ---
