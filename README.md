@@ -31,7 +31,7 @@ However, the manager wasn’t sure what specific metrics were most useful, promp
 
 ## 📈 Dashboard Overview
 
-![KPI Dashboard](images/KPI_Dashboard.png)
+![KPI Dashboard](assets/KPI_Dashboard.png)
 
 **Key Visuals:**
 - Weekly Call Volume bar chart with average line
@@ -91,13 +91,10 @@ KPI-Dashboard-Call-Center/
 ├── README.md
 ├── data/
 │   └── Call Center Data.xlsx
-├── images/
+├── assets/
 │   └── KPI_Dashboard.png
 ├── tableau/
 │   └── KPI_Dashboard.twb
-│   └── KPI_Dashboard_Export.pdf
-├── insights/
-│   └── KPI_Insights_Report.md
 ```
 
 ---
